@@ -1,0 +1,71 @@
+body {
+  font-family: "Helvetica Neue", "Arial", "Hiragino Kaku Gothic ProN",
+              "Hiragino Sans", "Meiryo", sans-serif;
+}
+
+main {
+  margin-top: 100px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#show-text {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+#entered-text {
+  font-size: 2rem;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  text-align: center;
+  border-radius: 30px;
+}
+
+#result {
+  margin-top: 30px;
+}
+
+.table-center {
+  margin: auto;
+}
+
+.badge-title {
+  display: inline-block;
+  font-size: 1.1rem;
+  background-color: 	#333399;
+  color: #FFFFFF;
+  border-radius: 5px;
+  padding: 3px 10px
+}
+
+.link-div {
+  margin-top: 10px;
+}
+
+.link-div a {
+  font-size: 0.9rem;
+  margin-top: 20px;
+  text-decoration-line: none;
+  color: #0033CC;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px #000000 solid;
+  padding: 3px 10px;
+}
+
+th {
+  background-color: #CCCCFF;
+}
+
+td {
+  text-align: right;
+  width: 5rem;
+}
